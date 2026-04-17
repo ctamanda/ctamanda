@@ -37,3 +37,5 @@
 </div>
 
 ###
+
+![ctamanda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctamanda&theme=synthwave&hide_border=true)
