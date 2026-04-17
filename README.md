@@ -38,4 +38,6 @@
 
 ###
 
+<h2 align="center">Stats</h2>
+
 ![ctamanda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctamanda&theme=synthwave&hide_border=true)
