@@ -40,4 +40,6 @@
 
 <h2 align="center">Stats</h2>
 
-![ctamanda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctamanda&theme=synthwave&hide_border=true)
+![ctamanda's Stats](https://github-readme-stats.vercel.app/api?username=ctamanda&theme=synthwave&show_icons=true&hide_border=false&count_private=false)
+
+![ctamanda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctamanda&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
