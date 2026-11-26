@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/amanda-costa-02a165322">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:amandarbc445@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -20,11 +20,12 @@
 ## 🧑‍💻 About me
 
 - 🎓 Information Systems student at UNITINS (State University of Tocantins)
+- ☕ Solid foundation in **Java**, building back-end APIs with Quarkus
 - 🔭 Currently working on: **FinControl**, a personal finance system (Quarkus + Angular)
-- 📚 Currently learning: **[ex.: Spring Boot, Docker, cloud deployment]**
-- 🎯 Looking for: **[estágio / primeira vaga em desenvolvimento]**
+- 📚 Currently deepening my **TypeScript** skills, beyond Angular, toward modern full stack development
+- 🎯 Looking for: **internship opportunities in full stack development (Java + TypeScript)**
 
-> 🇧🇷 Estudante de Sistemas de Informação, em busca de oportunidade de estágio em desenvolvimento.
+> 🇧🇷 Estudante de Sistemas de Informação, com base sólida em Java e aprofundando TypeScript. Em busca de estágio em desenvolvimento.
 
 ---
 
@@ -32,7 +33,7 @@
 
 **Languages & front-end**
 
-![Languages](https://skillicons.dev/icons?i=java,py,ts,js,html,css,angular)
+![Languages](https://skillicons.dev/icons?i=java,ts,py,js,html,css,angular)
 
 **Back-end & data**
 
@@ -65,8 +66,7 @@
 ### [💰 FinControl](https://github.com/ctamanda/FinControl-ProjetoTP2) 🚧 *in development*
 Personal finance system with a REST API and a web interface, plus an admin panel with audit log.
 JWT authentication, per-user data isolation, payable/receivable tracking, monthly dashboard, and 62 automated backend tests. Frontend deployed with GitHub Actions.
-`Java 25` · `Quarkus` · `Angular` · `PostgreSQL` · `Flyway` · `Docker`
-<!-- Adicionar "Live site" quando o back-end estiver publicado -->
+`Java 25` · `Quarkus` · `Angular` · `TypeScript` · `PostgreSQL` · `Flyway` · `Docker`
 
 ### [🛍️ Ecommerce Top API](https://github.com/ctamanda/ecommerce-top-admin)
 REST API for a fitness-wear e-commerce, with admin and customer areas.
@@ -78,9 +78,9 @@ End-to-end machine learning pipeline that classifies mushrooms as edible or pois
 Train/validation/test split, model selection by validation metrics, and every run tracked with MLflow.
 `Python` · `scikit-learn` · `MLflow` · `Jupyter`
 
-### [🔥 Dashboard: Queimadas no Tocantins](https://github.com/ctamanda/dashboard-gov)
+### [🔥 Wildfire Dashboard: Tocantins](https://github.com/ctamanda/dashboard-gov)
 Dashboard on wildfire data in the state of Tocantins.
-`JavaScript`  <!-- confirme: bibliotecas e fonte dos dados -->
+`JavaScript`
 
 ---
 
