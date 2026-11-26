@@ -1,42 +1,98 @@
-<br clear="both">
+<h1 align="center">Hi, I'm Amanda Costa 👋</h1>
 
-<h2 align="center">Hello, world! I'm Amanda, welcome to my GitHub universe.</h2>
+<p align="center">
+  Information Systems student at <b>UNITINS</b> · Full Stack Developer in training<br>
+  I build APIs with <b>Java + Quarkus</b>, web interfaces with <b>TypeScript</b>,<br>
+  and machine learning pipelines with <b>Python + MLflow</b>.
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanda-costa-02a165322">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p align="center">Full Stack Developer in training with experience in Java, Python, JavaScript, and SQL. Focused on developing scalable and efficient solutions, always seeking to improve skills and build real-world projects.</p>
+---
 
-###
+## 🧑‍💻 About me
 
-<h2 align="center">About me</h2>
+- 🎓 Information Systems student at UNITINS (State University of Tocantins)
+- 🔭 Currently working on: **[seu projeto atual]**
+- 📚 Currently learning: **[ex.: Spring Boot, Docker, React]**
+- 🎯 Looking for: **[estágio / primeira vaga em desenvolvimento]**
 
-###
+> 🇧🇷 Estudante de Sistemas de Informação, em busca de oportunidade de estágio em desenvolvimento.
 
-<p align="left">- 🎓 Information Systems student at UNITINS (State University of Tocantins)  <br>- 💻 Full Stack Developer in training  <br>- 📚 Currently improving my skills in Java, Python, JavaScript, and SQL  <br>- 🔥 Passionate about technology and continuous learning</p>
+---
 
-###
+## 🛠️ Tech stack
 
-<h2 align="center">Tools</h2>
+**Languages**
 
-###
+![Languages](https://skillicons.dev/icons?i=java,py,ts,js,html,css)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+**Back-end & data**
 
-###
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
+**Data science & ML**
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+**Testing & tools**
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+### [🛍️ Ecommerce Top API](https://github.com/ctamanda/ecommerce-top-admin)
+REST API for a fitness-wear e-commerce, with admin and customer areas.
+JWT authentication, stock reservation at checkout, PIX/card payments through Mercado Pago with webhook confirmation, and automated tests.
+`Java 21` · `Quarkus` · `Hibernate + Panache` · `PostgreSQL` · `JUnit 5`
+
+### [🍄 Mushroom AI Classifier](https://github.com/ctamanda/mushroom-ai-classifier)
+End-to-end machine learning pipeline that classifies mushrooms as edible or poisonous (UCI dataset, 8,124 records).
+Train/validation/test split, model selection by validation metrics, and every run tracked with MLflow.
+`Python` · `scikit-learn` · `MLflow` · `Jupyter`
+
+### [💰 FinControl](https://github.com/ctamanda/FinControl-ProjetoTP2)
+Personal finance project, with back-end in Java ([topicos-2-back](https://github.com/ctamanda/topicos-2-back)) and front-end in TypeScript ([topicos-2-front](https://github.com/ctamanda/topicos-2-front)).
+`Java` · `TypeScript`  <!-- confirme: framework e banco de dados -->
+
+### [🔥 Dashboard: Queimadas no Tocantins](https://github.com/ctamanda/dashboard-gov)
+Dashboard on wildfire data in the state of Tocantins.
+`JavaScript`  <!-- confirme: bibliotecas e fonte dos dados -->
+
+---
+
+## 📂 More work
+
+| Repository | What it is |
+|---|---|
+| [descomplicando-ipv6](https://github.com/ctamanda/descomplicando-ipv6) | Website built for the supervised internship course (TypeScript) |
+| [assinaturas-institucionais](https://github.com/ctamanda/assinaturas-institucionais) | Standardized email signature generator for company staff (HTML) |
+| [atv.qualidade-teste](https://github.com/ctamanda/atv.qualidade-teste) | Software testing with Cypress |
+| [bd2-a2-energia-iot](https://github.com/ctamanda/bd2-a2-energia-iot) | Database II project on IoT energy data |
+| [estdadosA2](https://github.com/ctamanda/estdadosA2) | Data structures in Java |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctamanda&show_icons=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctamanda&layout=compact&hide_border=true&theme=transparent" height="150" />
+</p>
